@@ -10,7 +10,7 @@ const double fixedDeliveryCharge = 6.50, euroConversionRate = 1.1, dollarConvers
 
 int main()
 {
-	const char poundSign(156); // Sets the variable poundSign to the character of £
+	const char poundSign(156); // Sets the variable poundSign to the character of Â£
 
 	void calculateTotalDiscountedGoods();
 	void checkValidVoucherCode();
